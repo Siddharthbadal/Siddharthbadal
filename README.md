@@ -1,5 +1,19 @@
-### Hi there 👋
+## Hi! I am Sidharth. 👋
 
+I am a Software Developer| Data Analyst (in progress) ✌
+
+    🌱 I’m currently learning Django, VueJs
+    ♞ Working on my DS and Algo Skills
+    🔭 I’m currently looking for work
+    ✓ I love to read, write and watch movies.  
+    💬 Ask me about Movies and Data
+    🎶 Languages: Python, SQL 
+    
+Que sera sera
+
+
+  [Twitter](https://twitter.com/siddbadal)  [Linkedin](https://www.linkedin.com/in/siddharthbadal/)  
+       
 <!--
 **Siddharthbadal/Siddharthbadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
