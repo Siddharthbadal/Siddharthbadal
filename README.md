@@ -12,7 +12,8 @@ I am a Software Developer| Data Analyst (in progress) ✌
 Que sera sera
 
 
-  [Twitter](https://twitter.com/siddbadal)  [Linkedin](https://www.linkedin.com/in/siddharthbadal/)  
+(https://twitter.com/siddbadal)  (https://www.linkedin.com/in/siddharthbadal/) 
+   
        
 <!--
 **Siddharthbadal/Siddharthbadal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
