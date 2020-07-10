@@ -9,10 +9,8 @@ I am a Software Developer| Data Analyst (in progress) ✌
     💬 Ask me about Movies and Data
     🎶 Languages: Python, SQL 
     
-Que sera sera
 
-
-(https://twitter.com/siddbadal)  (https://www.linkedin.com/in/siddharthbadal/) 
+[Twitter](https://twitter.com/siddbadal)  [Linkedin](https://www.linkedin.com/in/siddharthbadal/) 
    
        
 <!--
