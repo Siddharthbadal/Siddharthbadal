@@ -2,7 +2,7 @@
 
 I am a Software Developer | Data Analyst (in progress) ✌
 
-   [font-size: 20px] 🌱 I’m currently learning Django, VueJs
+    🌱 I’m currently learning Django, VueJs
     ♞ Working on my DS and Algo Skills
     🔭 I’m currently looking for work
     ✓ I love to read, write and watch movies.  
