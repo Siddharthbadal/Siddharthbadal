@@ -1,6 +1,6 @@
 ## Hi! I am Sidharth. 👋
 
-I am a Software Developer| Data Analyst (in progress) ✌
+I am a Software Developer | Data Analyst (in progress) ✌
 
     🌱 I’m currently learning Django, VueJs
     ♞ Working on my DS and Algo Skills
