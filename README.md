@@ -1,16 +1,20 @@
 ## Hi! I am Sidharth. 👋
 
-I am a Software Developer | Data Analyst (in progress) ✌
+###### *Aspiring Software Developer | Data Analyst* ✌
 
-    🌱 I’m currently learning Python-Django, Data Analysis
-    ♞ Working on my DS & Algo and data analysis Skills
+    🌱 I’m currently learning Python, Django, SQL-Data Analysis, Go Programming
+    ♞ Working on my DS & Algorithm skills
     🔭 I’m currently looking for work
     ✓ I love to read, write and watch movies.  
-    💬 Ask me about Movies and Data
+    💬 Ask me about Data, Movies and Books
     🎶 Languages: Python, SQL 
     
 
-[Twitter](https://twitter.com/siddbadal)  [Linkedin](https://www.linkedin.com/in/siddharthbadal/) 
+### You can also find me on
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharthbadal/)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/siddbadal)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sidharthbadal.netlify.app/)
+
    
        
 <!--
