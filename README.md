@@ -2,12 +2,12 @@
 
 ###### *Aspiring Software Developer | Data Analyst* ✌
 
-    🌱 I’m currently learning Python, Django, SQL-Data Analysis, Go Programming
+    🌱 I’m currently learning Python, Django, Data Analysis
     ♞ Working on my DS & Algorithm skills
     🔭 I’m currently looking for work
     ✓ I love to read, write and watch movies.  
     💬 Ask me about Data, Movies and Books
-    🎶 Languages: Python, SQL 
+    🎶 Languages: Python, SQL , JavaScript
     
 
 ### You can also find me on
