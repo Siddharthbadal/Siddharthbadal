@@ -1,6 +1,6 @@
-## Hi! I am Sidharth. 👋
+## Hi! I am Siddharth. 👋
 
-###### *Aspiring Software Developer | Data Analyst* ✌
+###### * Python-Django Development | Web Development | Data Analysis* ✌
 
     🌱 I’m currently learning Python, Django, Data Analysis
     ♞ Working on my DS & Algorithm skills
